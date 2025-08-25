@@ -2,7 +2,7 @@
 CropX Rover is a solar-powered IoT-based smart farming assistant that integrates irrigation, fire safety, and real-time monitoring into a single compact system. Designed for precision agriculture, CropX aims to reduce manual labour, optimize resource usage, and improve crop yield while being sustainable, affordable, and scalable.
 
 
-![alt text](images/prototype pic.png)
+![alt text](images/prototype_pic.png)
 
 🚜 Problem Statement
 
